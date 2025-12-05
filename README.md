@@ -38,8 +38,7 @@ After model selection, the final model and encoders are deployed in a Streamlit 
 Tested models:
 - Linear Regression  
 - Ridge Regression  
-- Random Forest  
-- Gradient Boosting  
+- Lasso Regression   
 - XGBoost  
 
 Saved outputs:
